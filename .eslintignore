@@ -1,0 +1,4 @@
+webpack.config.ts
+node_modules
+coverage
+build
